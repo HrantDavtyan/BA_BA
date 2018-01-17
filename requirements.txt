@@ -1,0 +1,8 @@
+numpy
+pandas
+sklearn
+pandas_datareader
+googlemaps
+quandl
+matplotlib
+seaborn
